@@ -7,7 +7,6 @@ import {
 } from "react-router-dom";
 
 //Pages
-import InitialPage from "./Pages/InitialPage";
 import NotFound from "./Pages/NotFound";
 import ProjectsPage from "./Pages/ProjectsPage";
 import ContactsPage from "./Pages/ContactsPage";
